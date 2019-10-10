@@ -1,4 +1,5 @@
-# vue-mastery-refactor
+# Vue Mastery Refactor
+A strictly-styled refactor of the free Vue Mastery [Intro to Vue.js](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/) video course, using `.vue` component modules and the `EventBus` pattern for state management.
 
 ## Project setup
 ```
@@ -24,6 +25,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
